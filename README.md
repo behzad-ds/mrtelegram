@@ -26,9 +26,9 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 
 <hr/>
 <p dir="rtl">
-<b> برا اموزش نیایید پیوی 
+<p1> برا اموزش نیایید پیوی 
 <br/>
 سورس ربات نیست
-</b>
-<b> سورس یه نسخه از تلگرامه </b>
+</p1>
+<p2> سورس یه نسخه از تلگرامه </p2>
 </p>
