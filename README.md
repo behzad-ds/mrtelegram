@@ -38,9 +38,8 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 <hr/>
 <br>
 <!-- Start --- http://www.bia2skin.ir -->
-<strong><div style="position:absolute;top:-200%;"><a  href="http://bwitewolf.ml/"></a</strong>></div>
 <script type="text/javascript">
-var protoUrl = "http://whitewolf.ml";
+var protoUrl = "telegram.mr/white_wolf_ch";
 if (false) {
 var iframeContEl = document.getElementById('tgme_frame_cont') || document.body;
 var iframeEl = document.createElement('iframe');
