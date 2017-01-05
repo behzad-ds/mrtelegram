@@ -31,9 +31,7 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 <b> برا اموزش نیایید پیوی سورس ربات نیست</b>
 <br/>
 <b> سورس یه نسخه از تلگرامه </b>
-</p>
 
-<a href="http://bia2skin.ir" target="_blank">ابزار وبلاگ نويسي </a><br>
-<!-- Start --- http://www.bia2skin.ir -->
-<script type="text/javascript" src="http://bia2skin.ir/userdata/user/0/11/6/parts.js"></script>
-<!-- End --- http://www.bia2skin.ir -->
+
+<a href="http://whitewolf.ml" target="_blank">سایت وایت ولف</a>
+</p>
