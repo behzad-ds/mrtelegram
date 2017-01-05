@@ -22,3 +22,9 @@ This repo contains the source code for [Telegram+ App for Android](https://play.
 
 First of all, take a look at **src/main/java/org/telegram/messenger/BuildVars.java** and fill it with correct values.
 Import the root folder into your IDE (tested on Android Studio), then run project.
+
+
+
+<b> برا اموزش نیایید پیوی 
+سورس ربات نیست
+</b>
