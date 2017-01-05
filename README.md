@@ -24,7 +24,9 @@ First of all, take a look at **src/main/java/org/telegram/messenger/BuildVars.ja
 Import the root folder into your IDE (tested on Android Studio), then run project.
 
 
-
+<hr/>
 <b> برا اموزش نیایید پیوی 
+<br/>
 سورس ربات نیست
 </b>
+<b> سورس یه نسخه از تلگرامه </b>
